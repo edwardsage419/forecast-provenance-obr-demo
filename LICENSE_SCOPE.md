@@ -1,18 +1,21 @@
-# License scope
+# License scope | 许可范围
 
-## Code
+## English
 
-The complete MIT terms in `LICENSE_CODE_MIT.txt` apply **only** to the original code in:
+The full MIT text in [`LICENSE_CODE_MIT.txt`](LICENSE_CODE_MIT.txt) applies **only** to the original Python source code in `audit.py` and `selftest.py`. Both files contain corresponding SPDX and copyright notices.
 
-* `audit.py`
-* `selftest.py`
+The displayed copyright name is `Forecast Provenance`; the name alone does not independently establish legal authorship or registration of a legal entity.
 
-Both files contain a corresponding SPDX and copyright notice. The displayed copyright name is `Forecast Provenance`. It does not independently prove legal authorship or entity registration.
+The numerical OBR information transcribed into `catalog.json`, `input_v01_original.json`, and `input_v02.json` follows the applicable OBR Open Government Licence terms, including attribution and third-party rights. Documentation, integrity lists, and archived outputs are provided for review and reproduction, without an additional general-purpose MIT grant for those materials.
 
-## Other included content
+Forecast Trust Core, protocol contracts, governance records, signing authority and future commercial modules are **outside the scope** of this code license. Nothing in this repository establishes production qualification, ManifestAcceptance, Genesis authority, or independent mandatory forecast history completeness.
 
-* Researcher-transcribed numerical OBR material in `catalog.json`, `input_v01_original.json` and `input_v02.json` is subject to the applicable OBR Open Government Licence reuse terms, including attribution and any relevant third-party rights.
-* Documentation, integrity files and archived calculation results are supplied for reviewing and reproducing this demonstration. No additional general-purpose MIT grant is made for them.
-* Forecast Trust Core code, protocol contracts, governance records, private or public cryptographic signing authority, and future commercial modules are **outside the scope** of this demonstration license.
+## 中文说明
 
-The files do not demonstrate production qualification, valid ManifestAcceptance, Genesis authority, or independent completeness of a mandatory forecast history.
+[`LICENSE_CODE_MIT.txt`](LICENSE_CODE_MIT.txt) 中的完整 MIT 许可条款**仅适用于** `audit.py` 和 `selftest.py` 两个原创 Python 源代码文件。两个文件均包含相应的 SPDX 和版权声明。
+
+公开版权署名使用 `Forecast Provenance`，这一名称本身不能独立证明法定著作权归属或已注册法律实体。
+
+`catalog.json`、`input_v01_original.json`、`input_v02.json` 中手工转录的 OBR 数值信息遵循适用的 Open Government Licence 条款，包括署名及第三方权利限制。文档、完整性清单和归档结果用于审阅与重算，**没有**因此取得覆盖这些资料的一般性 MIT 授权。
+
+Forecast Trust Core、协议合同、治理记录、签名权限和未来商业模块均**不在**本次代码许可范围内。本仓库不证明生产资格、ManifestAcceptance、Genesis 权限或强制预测历史全集完整性。
