@@ -1,0 +1,36 @@
+{
+  "scope": "PUBLIC_OBR_EFO_ARCHIVE_BOUNDED_CATALOG_OBSERVATION_ONLY",
+  "observed_from": "https://obr.uk/report/medium-term-forecasts/",
+  "observed_on": "2026-11-06",
+  "window_inclusive": [
+    "2024-03-01",
+    "2025-11-30"
+  ],
+  "target": "UK real GDP growth for calendar year 2025",
+  "selection_rule": "EFO entries in official medium-term forecasts public archive during bounded window whose Table A.1 has a UK economy GDP 2025 forecast value",
+  "independently_authenticated_complete_public_archive": "UNKNOWN",
+  "normative_forecast_issuance_obligation": "NOT_ESTABLISHED",
+  "releases": [
+    {
+      "id": "OBR-EFO-2024-03-06-UKGDP-2025",
+      "date": "2024-03-06",
+      "url": "https://obr.uk/efo/economic-and-fiscal-outlook-march-2024/"
+    },
+    {
+      "id": "OBR-EFO-2024-10-30-UKGDP-2025",
+      "date": "2024-10-30",
+      "url": "https://obr.uk/efo/economic-and-fiscal-outlook-october-2024/"
+    },
+    {
+      "id": "OBR-EFO-2025-03-26-UKGDP-2025",
+      "date": "2025-03-26",
+      "url": "https://obr.uk/efo/economic-and-fiscal-outlook-march-2025/"
+    },
+    {
+      "id": "OBR-EFO-2025-11-26-UKGDP-2025",
+      "date": "2025-11-26",
+      "url": "https://obr.uk/efo/economic-and-fiscal-outlook-november-2025/"
+    }
+  ],
+  "source_bytes_and_publication_time_independently_proven": "UNKNOWN"
+}

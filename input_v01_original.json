@@ -1,0 +1,59 @@
+{
+  "artifact_scope": "PUBLIC_SOURCE_CURATED_OFFLINE_EVALUATION_DEMO_ONLY",
+  "prepared_on": "2026-11-06",
+  "subject": {
+    "organization": "UK Office for Budget Responsibility (OBR)",
+    "indicator": "UK real GDP growth, calendar year 2025",
+    "unit": "percent annual growth",
+    "target_year": 2025,
+    "source_definition": "Economic and fiscal outlook, Annex A, Table A.1, UK economy, Gross domestic product (GDP)"
+  },
+  "forecast_rows": [
+    {
+      "id": "OBR-EFO-2024-03-06-UKGDP-2025",
+      "reported_publication_date": "2024-03-06",
+      "forecast_percent": "1.9",
+      "source_url": "https://obr.uk/efo/economic-and-fiscal-outlook-march-2024/",
+      "source_locator": "Annex A, Table A.1, UK economy, Gross domestic product (GDP), column 2025",
+      "source_raw_bytes_preserved": false,
+      "externally_authenticated_pre_deadline_existence": "UNKNOWN"
+    },
+    {
+      "id": "OBR-EFO-2024-10-30-UKGDP-2025",
+      "reported_publication_date": "2024-10-30",
+      "forecast_percent": "2.0",
+      "source_url": "https://obr.uk/efo/economic-and-fiscal-outlook-october-2024/",
+      "source_locator": "Annex A, Table A.1, UK economy, Gross domestic product (GDP), column 2025",
+      "source_raw_bytes_preserved": false,
+      "externally_authenticated_pre_deadline_existence": "UNKNOWN",
+      "revision_note": "Official correction slip dated 2024-11-07 exists; original and corrected bytes were not compared. Impact on this cell not determined."
+    },
+    {
+      "id": "OBR-EFO-2025-03-26-UKGDP-2025",
+      "reported_publication_date": "2025-03-26",
+      "forecast_percent": "1.0",
+      "source_url": "https://obr.uk/efo/economic-and-fiscal-outlook-march-2025/",
+      "source_locator": "Annex A, Table A.1, UK economy, Gross domestic product (GDP), column 2025",
+      "source_raw_bytes_preserved": false,
+      "externally_authenticated_pre_deadline_existence": "UNKNOWN"
+    }
+  ],
+  "reference_outturn": {
+    "source_report_date": "2026-03-03",
+    "observation_percent": "1.4",
+    "source_url": "https://obr.uk/economic-and-fiscal-outlooks/",
+    "source_locator": "Economic and fiscal outlook – March 2026, Annex A, Table A.1, UK economy, GDP, 2025 outturn",
+    "source_raw_bytes_preserved": false,
+    "outturn_vintage": "March 2026 as-published estimate; subject to later data revisions"
+  },
+  "limits": {
+    "observed_selection": "three explicitly selected historical forecast vintages only",
+    "independently_complete_mandatory_forecast_universe": "UNKNOWN",
+    "forecasts_created_before_outcome_authenticated": "UNKNOWN",
+    "independent_original_source_bytes": "UNAVAILABLE",
+    "historical_correction_coverage": "UNKNOWN",
+    "external_time_proof": "UNAVAILABLE",
+    "production_status": "PRE_GENESIS_NO_PROTOCOL_ACTION",
+    "selection_independence": "UNKNOWN"
+  }
+}

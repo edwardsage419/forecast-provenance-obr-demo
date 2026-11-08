@@ -1,0 +1,56 @@
+{
+  "scope": "PUBLIC_ARCHIVE_BOUNDED_CURATED_OBSERVATION_DEMO_ONLY",
+  "bounded_catalog_membership": "MATCHED_CURATED_REGISTER",
+  "missing_from_curated_selection": [],
+  "unexpected_curated_selection": [],
+  "wrong_curated_release_locator": [],
+  "catalog_is_independently_complete": "UNKNOWN",
+  "mandatory_forecast_cycle_universe": "UNKNOWN",
+  "original_source_bytes_authenticated": "UNKNOWN",
+  "corrected_source_version_authenticated": "UNKNOWN",
+  "pre_publication_durability": "UNKNOWN",
+  "real_genesis_readiness": "NOT_ESTABLISHED",
+  "arithmetic_of_supplied_rows": "PASS",
+  "observed_count": 4,
+  "catalog_count": 4,
+  "calculated_rows": [
+    {
+      "id": "OBR-EFO-2024-03-06-UKGDP-2025",
+      "date": "2024-03-06",
+      "forecast_percent": "1.9",
+      "outturn_percent_march_2026_vintage": "1.4",
+      "signed_error_pp": "0.5",
+      "absolute_error_pp": "0.5",
+      "squared_error_pp2": "0.25"
+    },
+    {
+      "id": "OBR-EFO-2024-10-30-UKGDP-2025",
+      "date": "2024-10-30",
+      "forecast_percent": "2.0",
+      "outturn_percent_march_2026_vintage": "1.4",
+      "signed_error_pp": "0.6",
+      "absolute_error_pp": "0.6",
+      "squared_error_pp2": "0.36"
+    },
+    {
+      "id": "OBR-EFO-2025-03-26-UKGDP-2025",
+      "date": "2025-03-26",
+      "forecast_percent": "1.0",
+      "outturn_percent_march_2026_vintage": "1.4",
+      "signed_error_pp": "-0.4",
+      "absolute_error_pp": "0.4",
+      "squared_error_pp2": "0.16"
+    },
+    {
+      "id": "OBR-EFO-2025-11-26-UKGDP-2025",
+      "date": "2025-11-26",
+      "forecast_percent": "1.5",
+      "outturn_percent_march_2026_vintage": "1.4",
+      "signed_error_pp": "0.1",
+      "absolute_error_pp": "0.1",
+      "squared_error_pp2": "0.01"
+    }
+  ],
+  "selected_rows_mean_absolute_error_pp_not_benchmark": "0.4",
+  "interpretation": "A match to a user-curated catalog does not establish an independent mandatory universe, historical source authenticity or a valid protocol claim."
+}
